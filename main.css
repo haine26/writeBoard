@@ -1,0 +1,31 @@
+* {
+    font-size: 15px;
+    text-align: center;
+}
+canvas {
+    text-align: center;
+    background-color: #e0e9d9;
+    border: solid 2px black;
+    border-radius: 20px;
+}
+select,
+input {
+    height: 25px;
+    margin-right: 5px;
+}
+h2{
+    font-size: 35px;
+    margin: 25px;
+}
+p {
+    margin: 20px
+}
+button{
+    margin: 10px;
+    padding: 7px 15px;
+    border-radius: 10px;
+}
+ button:hover{
+ background-color: #728265;
+ color: white;
+}
